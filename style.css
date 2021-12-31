@@ -91,17 +91,27 @@ p{
 .link-button-mail{
     text-decoration: none;
     display: block;
-    width: 400px;
+    width: 650px;
     height: 100px;
-    background-image: linear-gradient(45deg, lightSalmon, tomato);
-    padding: 10px;
+    background-image: linear-gradient(45deg, rgb(245, 102, 162),rgb(247, 93, 116));
+    padding: 30px;
     text-align: center;
     border-radius: 5px;
     color: white;
     font-size: 30px;
-    font-weight: bold;
+    font-weight: 300;
+    
 }
 .button-center{
-    margin-left: 480px;
+    margin-left: 330px;
+    margin-right: 300px;
 }
+.last-section{
+    background-image: url("images/footer-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 100%;
+    height: 500px;
+}
+
 
