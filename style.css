@@ -79,6 +79,7 @@ p{
 .text-work{
     text-align: center;
 }
+
 .section-last{
     background-image: url("images/latest-work-bg.png");
     background-repeat: no-repeat;
@@ -99,6 +100,8 @@ p{
     color: white;
     font-size: 30px;
     font-weight: bold;
-    line-height: 25px;
-
 }
+.button-center{
+    margin-left: 480px;
+}
+
